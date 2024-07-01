@@ -1,0 +1,16 @@
+{
+  "league": "Wealthpilot first league",
+  "country": "Germany",
+  "teams": [
+    { "name": "Team1", "foundingDate": "1900" },
+    { "name": "Team2", "foundingDate": "1901" },
+    { "name": "Team3", "foundingDate": "1902" },
+    { "name": "Team4", "foundingDate": "1903" },
+    { "name": "Team5", "foundingDate": "1904" },
+    { "name": "Team6", "foundingDate": "1905" },
+    { "name": "Team7", "foundingDate": "1906" },
+    { "name": "Team8", "foundingDate": "1907" },
+    { "name": "Team9", "foundingDate": "1908" },
+    { "name": "Team10", "foundingDate": "1909" }
+  ]
+}

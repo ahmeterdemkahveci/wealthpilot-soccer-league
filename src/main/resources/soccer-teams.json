@@ -1,0 +1,10 @@
+{
+  "league": "Wealthpilot first league",
+  "country": "Germany",
+  "teams": [
+    { "name": "Volksbank Kickers", "foundingDate": "1998" },
+    { "name": "Arminia Sparkasse", "foundingDate": "2000" },
+    { "name": "DJ FC", "foundingDate": null },
+    { "name": "1. FC Marco", "foundingDate": null }
+  ]
+}
